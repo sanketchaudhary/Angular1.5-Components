@@ -1,0 +1,19 @@
+{
+  "name": "psmovies",
+  "version": "1.0.0",
+  "description": "Movies Application",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanket",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "angular-route": "^1.6.4"
+  },
+  "dependencies": {
+    
+  }
+}
